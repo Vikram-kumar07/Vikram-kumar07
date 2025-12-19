@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram-kumar07&label=Profile%20views&color=0e75b6&style=flat" alt="vikram-kumar07" /> </p>
 
-- 🌱 I’m currently learning **c, c++, java, python**
+- 🌱 I’m currently learning **powerbi, excel, ms sql, java, python**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vikram0789](https://www.linkedin.com/in/vikram0789)
 
